@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prime Number</string>
+    <string name="welcome">Welcome\n Let\'s Explore Prime Numbers</string>
+    <string name="continue_button">Continue</string>
+    <string name="ques">Is this a Prime Number?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="next">NEXT</string>
+    <string name="prime_welcome">Prime Numbers</string>
+
+</resources>
